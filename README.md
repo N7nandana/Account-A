@@ -4,5 +4,6 @@ This is a public repository in Account A
 - this has a readme.md file having basic description
 - this performed star, issue(created and closed), watch
 Challenges faced
-- unable to pull request in github to main branch, not resolved yet
+- unable to do pull request in git bash
+- resolved by doing with github by making changes in account B and made a pull request which led to merging from account A
     
